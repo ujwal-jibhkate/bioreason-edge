@@ -1,7 +1,7 @@
 # .gitignore
 
 # 1. Ignore Data (We transfer this manually)
-data/
+/data/
 *.fasta
 *.txt
 *.csv

@@ -1,0 +1,40 @@
+name: bioreason-edge
+channels:
+  - pytorch
+  - nvidia
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python (3.10 is stable for both WSL and Jetson/JetPack 6)
+  - python=3.10
+  - pip
+
+  # Bioinformatics Libraries
+  - biopython>=1.81       # For SeqIO and sequence handling
+  - pandas                # For metadata handling later
+  - numpy                 # Core math
+
+  # Utilities
+  - tqdm                  # Progress bars (essential for long batch processing)
+  - ipykernel             # If you want to test in Jupyter notebooks
+  - pathlib
+  
+  # ML/LLM Essentials (CPU/CUDA version for WSL)
+  # Note: On actual Jetson, you will install torch differently via JetPack wheels
+  - transformers
+  - accelerate
+  - sentence-transformers # For embedding models
+  #- pytorch
+  #- torchvision
+  #- torchaudio
+  #- pytorch-cuda=12.1     # Adjust based on your Windows/WSL NVIDIA driver version
+
+  # Pip dependencies for edge-specific or newer tools
+  #- pip:
+  #  - hyena-dna           # If available via pip, or we install from source later
+  #  - transformers        # For Hugging Face models
+  #  - accelerate
+  #  - bitsandbytes        # For quantization (essential for edge inference)
+  #  - safetensors         # Efficient model loading
+  #  - ont-bonito          # Basecaller (optional now, but good to have for ONT contexts)

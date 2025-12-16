@@ -1,0 +1,20 @@
+# .gitignore
+
+# 1. Ignore Data (We transfer this manually)
+data/
+*.fasta
+*.txt
+*.csv
+*.pt
+*.pth
+
+# 2. Ignore Python cache/build files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# 3. Ignore Environment folders (if created locally)
+env/
+venv/
+.conda/

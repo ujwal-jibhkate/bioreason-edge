@@ -1,0 +1,439 @@
+2025-12-16 14:47:09,571 - INFO - Starting new dataset generation.
+2025-12-16 14:47:11,382 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:11,382 - WARNING - Skipping batch due to API error. Header sample: B.FR.1983.HXB2-LAI-IIIB-BRU.K03455
+2025-12-16 14:47:13,075 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:13,077 - WARNING - Skipping batch due to API error. Header sample: 35_A1D.IR.2011.11IR.KSH29F.AB703611
+2025-12-16 14:47:14,662 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:14,664 - WARNING - Skipping batch due to API error. Header sample: 01_AE.IR.2010.10IR.THR48F.AB703616
+2025-12-16 14:47:17,093 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:17,095 - WARNING - Skipping batch due to API error. Header sample: 51_01B.SG.2011.11SG_HM091.JN029803
+2025-12-16 14:47:19,400 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:19,402 - WARNING - Skipping batch due to API error. Header sample: 50_A1D.GB.2010.12792.JN417240
+2025-12-16 14:47:20,928 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:20,930 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2010.CYM059.JX112796
+2025-12-16 14:47:23,552 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:23,554 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2010.CYM138.JX112801
+2025-12-16 14:47:26,038 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:26,039 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2010.CYM149.JX112806
+2025-12-16 14:47:28,659 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:28,661 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2010.JL100014.JX112848
+2025-12-16 14:47:31,099 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:31,101 - WARNING - Skipping batch due to API error. Header sample: D.CM.2010.DEMD10CM009.JX140670
+2025-12-16 14:47:32,841 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:32,843 - WARNING - Skipping batch due to API error. Header sample: O.GA.2011.11Gab6352.JX245015
+2025-12-16 14:47:36,462 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:36,464 - WARNING - Skipping batch due to API error. Header sample: A6.RU.2010.10RU6792.JX500695
+2025-12-16 14:47:39,023 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:39,024 - WARNING - Skipping batch due to API error. Header sample: 63_02A6.RU.2010.10RU6366.JX500702
+2025-12-16 14:47:41,308 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:41,309 - WARNING - Skipping batch due to API error. Header sample: B.RU.2010.10RU6629.JX500707
+2025-12-16 14:47:43,008 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:43,011 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2010.10LNA103.JX960608
+2025-12-16 14:47:44,598 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:44,600 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2010.10LNA264.JX960622
+2025-12-16 14:47:46,978 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:46,979 - WARNING - Skipping batch due to API error. Header sample: 55_01B.CN.2011.ANHUI_FY64.KC183777
+2025-12-16 14:47:48,499 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:48,501 - WARNING - Skipping batch due to API error. Header sample: 68_01B.CN.2011.ANHUI_XC46.KC183783
+2025-12-16 14:47:49,955 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:49,957 - WARNING - Skipping batch due to API error. Header sample: B.US.2010.DEMB10US004.KC473827
+2025-12-16 14:47:52,287 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:52,288 - WARNING - Skipping batch due to API error. Header sample: B.US.2011.DEMB11US004.KC473832
+2025-12-16 14:47:53,834 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:53,835 - WARNING - Skipping batch due to API error. Header sample: B.ES.2010.DEMB10ES002.KC473842
+2025-12-16 14:47:55,905 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:55,907 - WARNING - Skipping batch due to API error. Header sample: 58_01B.MY.2010.10MYKJ036.KC522035
+2025-12-16 14:47:58,378 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:58,379 - WARNING - Skipping batch due to API error. Header sample: 65_cpx.CN.2010.YNFL02.KC870028
+2025-12-16 14:47:59,832 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:47:59,833 - WARNING - Skipping batch due to API error. Header sample: 64_BC.CN.2010.YNFL16.KC870036
+2025-12-16 14:48:01,327 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:01,329 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2010.YNFL23.KC870041
+2025-12-16 14:48:03,439 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:03,440 - WARNING - Skipping batch due to API error. Header sample: BC.CN.2010.JL100091.KF011493
+2025-12-16 14:48:04,897 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:04,898 - WARNING - Skipping batch due to API error. Header sample: BC.CN.2010.DH15.KF250399
+2025-12-16 14:48:06,354 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:06,356 - WARNING - Skipping batch due to API error. Header sample: 01BC.CN.2012.DH28.KF250407
+2025-12-16 14:48:09,639 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:09,641 - WARNING - Skipping batch due to API error. Header sample: B.US.2011.CP12-10.KF384799
+2025-12-16 14:48:11,942 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:11,944 - WARNING - Skipping batch due to API error. Header sample: B.US.2011.CP6-2E.KF384804
+2025-12-16 14:48:14,497 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:14,499 - WARNING - Skipping batch due to API error. Header sample: B.US.2011.ES39-42.KF384810
+2025-12-16 14:48:16,701 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:16,703 - WARNING - Skipping batch due to API error. Header sample: 58_01B.MY.2010.10MYPR87.KF425293
+2025-12-16 14:48:18,889 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:18,889 - WARNING - Skipping batch due to API error. Header sample: B.US.2011.16TB1_11G2.KF526192
+2025-12-16 14:48:20,337 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:20,338 - WARNING - Skipping batch due to API error. Header sample: C.US.2011.17TB4_E5.KF526227
+2025-12-16 14:48:21,896 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:21,897 - WARNING - Skipping batch due to API error. Header sample: B.US.2011.22CC9_induced.KF526312
+2025-12-16 14:48:23,397 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:23,399 - WARNING - Skipping batch due to API error. Header sample: 02_AG.KR.2012.12MHI11-10746.KF561437
+2025-12-16 14:48:26,006 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:26,008 - WARNING - Skipping batch due to API error. Header sample: 22_01A1.CM.2010.DE02210CM011.KF716461
+2025-12-16 14:48:27,693 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:27,694 - WARNING - Skipping batch due to API error. Header sample: A1C.KE.2010.DEURF10KE003.KF716471
+2025-12-16 14:48:29,888 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:29,890 - WARNING - Skipping batch due to API error. Header sample: D.UG.2010.DEMD10UG004.KF716479
+2025-12-16 14:48:31,996 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:31,998 - WARNING - Skipping batch due to API error. Header sample: A1D.UG.2010.DEURF10UG005.KF716487
+2025-12-16 14:48:34,094 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:34,096 - WARNING - Skipping batch due to API error. Header sample: B.JP.2011.DEMB11JP002.KF716497
+2025-12-16 14:48:35,776 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:35,778 - WARNING - Skipping batch due to API error. Header sample: 0222.CM.2010.DE00210CM013.2.KF859740
+2025-12-16 14:48:37,871 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:37,872 - WARNING - Skipping batch due to API error. Header sample: 0107.CN.2010.JL.RF03.KJ184176
+2025-12-16 14:48:40,043 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:40,044 - WARNING - Skipping batch due to API error. Header sample: 63_02A6.RU.2013.RU_8501.KJ197202
+2025-12-16 14:48:43,086 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:43,086 - WARNING - Skipping batch due to API error. Header sample: BF1.BR.2010.10BR_MG003.KJ671533
+2025-12-16 14:48:44,868 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:44,869 - WARNING - Skipping batch due to API error. Header sample: 115_01C.CN.2012.kang140-NFL.KJ778896
+2025-12-16 14:48:46,321 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:46,323 - WARNING - Skipping batch due to API error. Header sample: 71_BF1.BR.2010.10BR_PE008.KJ849759
+2025-12-16 14:48:47,765 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:47,767 - WARNING - Skipping batch due to API error. Header sample: BF1.BR.2010.10BR_PE059.KJ849768
+2025-12-16 14:48:50,047 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:50,048 - WARNING - Skipping batch due to API error. Header sample: BF1.BR.2010.10BR_PE086.KJ849774
+2025-12-16 14:48:52,188 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:52,190 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE104.KJ849780
+2025-12-16 14:48:53,656 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:53,658 - WARNING - Skipping batch due to API error. Header sample: BCF1.BR.2010.10BR_MG010.KJ849787
+2025-12-16 14:48:55,132 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:55,134 - WARNING - Skipping batch due to API error. Header sample: BC.BR.2010.10BR_PE018.KJ849795
+2025-12-16 14:48:57,226 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:57,226 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_RJ032.KJ849801
+2025-12-16 14:48:58,684 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:48:58,686 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_SP043.KJ849807
+2025-12-16 14:49:00,777 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:00,779 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_SP050.KJ849812
+2025-12-16 14:49:02,211 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:02,213 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE091.KJ849817
+2025-12-16 14:49:03,696 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:03,697 - WARNING - Skipping batch due to API error. Header sample: F1.ES.2011.VA0053_nfl.KJ883138
+2025-12-16 14:49:05,208 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:05,209 - WARNING - Skipping batch due to API error. Header sample: F2O.CM.2012.REC003.KM438031
+2025-12-16 14:49:07,564 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:07,566 - WARNING - Skipping batch due to API error. Header sample: C.ZM.2011.DEMC11ZM003.KP109494
+2025-12-16 14:49:09,153 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:09,154 - WARNING - Skipping batch due to API error. Header sample: G.CM.2010.DEURF10CM020.KP109502
+2025-12-16 14:49:11,380 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:11,381 - WARNING - Skipping batch due to API error. Header sample: B.CN.2012.DEMB12CN006.KP109511
+2025-12-16 14:49:13,737 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:13,739 - WARNING - Skipping batch due to API error. Header sample: C.ZA.2012.DEMC12ZA096.KP109517
+2025-12-16 14:49:17,114 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:17,115 - WARNING - Skipping batch due to API error. Header sample: B.SE.2011.SE600034.KP411825
+2025-12-16 14:49:18,676 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:18,678 - WARNING - Skipping batch due to API error. Header sample: C.SE.2010.SE600412.KP411837
+2025-12-16 14:49:20,125 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:20,126 - WARNING - Skipping batch due to API error. Header sample: 02_AG.SE.2011.SE602020.KP411844
+2025-12-16 14:49:22,486 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:22,488 - WARNING - Skipping batch due to API error. Header sample: 18_cpx.CM.2011.B4043-15.KP718931
+2025-12-16 14:49:24,787 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:24,789 - WARNING - Skipping batch due to API error. Header sample: 01_AE.CN.2011.JL110010.KP860669
+2025-12-16 14:49:26,846 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:26,848 - WARNING - Skipping batch due to API error. Header sample: 74_01B.MY.2010.10MYPR268.KR019771
+2025-12-16 14:49:29,132 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:29,133 - WARNING - Skipping batch due to API error. Header sample: C.ZM.2010.Z4248F_11Jun10_PL_NFLG_SGA11.KR820396
+2025-12-16 14:49:30,618 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:30,618 - WARNING - Skipping batch due to API error. Header sample: C.ZM.2010.Z4248F_11Jun10_PL_NFLG_SGA6.KR820411
+2025-12-16 14:49:32,145 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:32,146 - WARNING - Skipping batch due to API error. Header sample: C.ZM.2011.Z4473F_7Jun11_PL_NFLG_SGA18.KR820430
+2025-12-16 14:49:33,585 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:33,586 - WARNING - Skipping batch due to API error. Header sample: 01C.IN.2014.NARI_FLS_YCM-151.KT074935
+2025-12-16 14:49:35,642 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:35,644 - WARNING - Skipping batch due to API error. Header sample: B.DE.2012.328893.KT124765
+2025-12-16 14:49:37,181 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:37,181 - WARNING - Skipping batch due to API error. Header sample: B.US.2011.479693.KT124773
+2025-12-16 14:49:39,503 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:39,558 - WARNING - Skipping batch due to API error. Header sample: B.US.2012.607523.KT124784
+2025-12-16 14:49:41,211 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:41,212 - WARNING - Skipping batch due to API error. Header sample: B.US.2013.862898.KT124796
+2025-12-16 14:49:43,273 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:43,275 - WARNING - Skipping batch due to API error. Header sample: B.DE.2012.956306.KT124811
+2025-12-16 14:49:44,705 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:44,705 - WARNING - Skipping batch due to API error. Header sample: B.ES.2010.R7.KT200356
+2025-12-16 14:49:46,130 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:46,130 - WARNING - Skipping batch due to API error. Header sample: B.ES.2014.ARP1196.KT276256
+2025-12-16 14:49:49,569 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:49,569 - WARNING - Skipping batch due to API error. Header sample: B.ES.2014.ARP1202.KT276262
+2025-12-16 14:49:51,722 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:51,723 - WARNING - Skipping batch due to API error. Header sample: B.ES.2014.ARP1207.KT276267
+2025-12-16 14:49:53,892 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:53,894 - WARNING - Skipping batch due to API error. Header sample: B.US.2013.G4_RV_1.KT284371
+2025-12-16 14:49:55,513 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:55,514 - WARNING - Skipping batch due to API error. Header sample: BF1.BR.2010.10BR_RJ075.KT427651
+2025-12-16 14:49:57,585 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:57,587 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_MG044.KT427671
+2025-12-16 14:49:59,055 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:49:59,058 - WARNING - Skipping batch due to API error. Header sample: C.BR.2010.10BR_MG037.KT427677
+2025-12-16 14:50:01,149 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:01,151 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_MG020.KT427682
+2025-12-16 14:50:03,380 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:03,382 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_MG012.KT427687
+2025-12-16 14:50:05,429 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:05,429 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE108.KT427693
+2025-12-16 14:50:07,531 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:07,532 - WARNING - Skipping batch due to API error. Header sample: BF1.BR.2010.10BR_PE099.KT427698
+2025-12-16 14:50:09,139 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:09,141 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE082.KT427703
+2025-12-16 14:50:11,319 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:11,321 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE072.KT427709
+2025-12-16 14:50:12,760 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:12,760 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE052.KT427715
+2025-12-16 14:50:14,177 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:14,179 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE045.KT427720
+2025-12-16 14:50:16,254 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:16,256 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE040.KT427725
+2025-12-16 14:50:18,333 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:18,334 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE035.KT427730
+2025-12-16 14:50:20,420 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:20,422 - WARNING - Skipping batch due to API error. Header sample: C.BR.2010.10BR_PE023.KT427736
+2025-12-16 14:50:22,847 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:22,848 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_PE015.KT427741
+2025-12-16 14:50:24,315 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:24,316 - WARNING - Skipping batch due to API error. Header sample: BF1.BR.2010.10BR_PE005.KT427746
+2025-12-16 14:50:25,905 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:25,906 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_RJ106.KT427751
+2025-12-16 14:50:27,358 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:27,360 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_RJ098.KT427756
+2025-12-16 14:50:29,683 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:29,683 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_RJ089.KT427762
+2025-12-16 14:50:31,800 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:31,802 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_RJ081.KT427767
+2025-12-16 14:50:33,869 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:33,870 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_RJ064.KT427772
+2025-12-16 14:50:35,935 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:35,938 - WARNING - Skipping batch due to API error. Header sample: 146_BC.BR.2010.10BR_RJ039.KT427778
+2025-12-16 14:50:38,023 - ERROR - Batch request failed: 400 Client Error:  for url: https://hivdb.stanford.edu/graphql
+2025-12-16 14:50:38,025 - WARNING - Skipping batch due to API error. Header sample: B.BR.2010.10BR_RJ025.KT427783
+2026-01-02 13:17:33,041 - INFO - Starting new dataset generation.
+2026-01-02 13:17:34,666 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:17:34,673 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:17:39,573 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:17:39,573 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:17:45,544 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:17:45,544 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:17:49,909 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:17:49,909 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:17:56,511 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:17:56,515 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:18:02,483 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:18:02,488 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:18:08,673 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:18:08,673 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:18:14,205 - ERROR - API Rejected Batch. Reason: {
+  "errors": [
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type VariableTypeMismatch: Variable type \u0027[String]!\u0027 doesn\u0027t match expected type \u0027[UnalignedSequenceInput]\u0027 @ \u0027sequenceAnalysis\u0027",
+      "locations": [
+        {
+          "line": 3,
+          "column": 31,
+          "sourceName": null
+        }
+      ]
+    },
+    {
+      "type": "ValidationError",
+      "message": "Validation error of type FieldUndefined: Field \u0027mutations\u0027 in type \u0027DrugResistance\u0027 is undefined @ \u0027sequenceAnalysis/drugResistance/mutations\u0027",
+      "locations": [
+        {
+          "line": 5,
+          "column": 7,
+          "sourceName": null
+        }
+      ]
+    }
+  ],
+  "data": null
+}
+2026-01-02 13:18:14,205 - WARNING - Batch failed. Falling back to single processing. Error: Batch 400 Error
+2026-01-02 13:21:40,058 - INFO - Starting new dataset generation.
+2026-01-02 13:26:23,405 - INFO - Starting new dataset generation.
+2026-01-02 14:03:09,978 - INFO - Dataset generation complete.

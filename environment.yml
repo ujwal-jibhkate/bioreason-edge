@@ -19,6 +19,10 @@ dependencies:
   - tqdm                  # Progress bars (essential for long batch processing)
   - ipykernel             # If you want to test in Jupyter notebooks
   - pathlib
+
+  # Visualization (optional, but useful for debugging)
+  - matplotlib
+  - seaborn
   
   # ML/LLM Essentials (CPU/CUDA version for WSL)
   # Note: On actual Jetson, you will install torch differently via JetPack wheels
